@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @desdevux
+- 👋 Hi, I’m Sari, @desdevux
 - 🌱 I’m currently studying Design at Aalto University and minoring in Computer Science.
 - 💞️ I’m looking to collaborate on projects that are clear, WCAG 2.2. compliant and easy on the eyes.
 
